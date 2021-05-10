@@ -1,0 +1,12 @@
+*.Rproj.user*
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+_publish.R
+_book
+_bookdown_files
+rsconnect
+.ipynb*
+.Rproj.user
+Thumbs.db
